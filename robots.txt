@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eingegeeg.fablabsulmona.org/sitemap.xml
